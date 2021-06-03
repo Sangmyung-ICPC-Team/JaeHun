@@ -1,4 +1,4 @@
-### JaeHun👋
+### There is no future without Coding.👋
 
 # JaeHun
 소프트웨어학과 202020994 추재훈
