@@ -14,3 +14,7 @@ Baekjoon gold tier (until ~ 2021 06 30)
 2021 05 20 ~ 2021 05 27  solved 15
 
 2021 05 28 ~ 2021 06 03  solved 9
+
+(2021 Summer Vacation)
+
+2021 06 21 ~ 2021 06 28 
