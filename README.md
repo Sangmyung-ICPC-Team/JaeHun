@@ -10,12 +10,11 @@
 # GOAL
 Baekjoon gold tier (until ~ 2021 06 30)
 
-# 문제 풀기 (브론즈2 이상 count) 
+# 문제 풀기 (BOJ 브론즈2 이상 count) 
 2021 05 20 ~ 2021 05 27  solved 15
 
 2021 05 28 ~ 2021 06 03  solved 9
 
-# (2021 Summer Vacation) 문제 풀기 
-#  (백준 브론즈2 이상, LeetCode)
+# (2021 Summer Vacation) (BOJ 브론즈2 이상, LeetCode)
 
 2021 06 21 ~ 2021 06 28 solved
