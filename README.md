@@ -1,6 +1,6 @@
 ### There is no future without Coding.👋
 
-# JaeHun
+## JaeHun
 소프트웨어학과 202020994 추재훈
 
 ![Chu-Jae-Hun's github stats](https://github-readme-stats.vercel.app/api?username=Chu-Jae-Hun&show_icons=true)
@@ -17,5 +17,5 @@ Baekjoon gold tier (until ~ 2021 06 30)
 
 # (2021 Summer Vacation) (BOJ 브론즈2 이상, LeetCode)
 
-2021 06 21 ~ 2021 06 28 solved BOJ : 6
-                        solved LC : 1
+2021 06 21 ~ 2021 06 28 solved *BOJ* : 6
+                        solved *LC* : 1
