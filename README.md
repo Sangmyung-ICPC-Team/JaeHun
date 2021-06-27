@@ -18,5 +18,5 @@ Baekjoon gold tier (until ~ 2021 06 30)
 
 # (2021 Summer Vacation) (BOJ 브론즈2 이상, LeetCode)
 
-2021 06 21 ~ 2021 06 28 solved *BOJ* : <span style = "color:red">**6**</span> |
+2021 06 21 ~ 2021 06 28 solved *BOJ* : <span style = "color:yellow">**6**</span> |
                          solved *LC* : **1**  
