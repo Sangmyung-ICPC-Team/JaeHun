@@ -1,4 +1,5 @@
 ### There is no future without Coding.👋
+=========================================
 
 ## JaeHun
 소프트웨어학과 202020994 추재훈
@@ -17,5 +18,5 @@ Baekjoon gold tier (until ~ 2021 06 30)
 
 # (2021 Summer Vacation) (BOJ 브론즈2 이상, LeetCode)
 
-2021 06 21 ~ 2021 06 28 solved *BOJ* : 6 |    
-                        solved *LC* : 1  |
+2021 06 21 ~ 2021 06 28 solved *BOJ* : <span style = "color:red"**6**</span> |
+                         solved *LC* : **1**  
