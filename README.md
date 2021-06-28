@@ -22,5 +22,5 @@ Baekjoon gold tier (until ~ 2021 06 30)
 
 | WebSite | Solved |
 |:--------|:-------|
-| Baekjoon | **6** |
+| Baekjoon | **7** |
 | LeetCode | **2** |
