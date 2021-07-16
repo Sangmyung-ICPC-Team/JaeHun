@@ -32,3 +32,7 @@ Baekjoon gold tier (until ~ 2021 06 30)
 | Baekjoon | **13** |
 
 2021 07 06 ~ 2021 07 16 (활동일 바꿈)
+
+| WebSite | Solved |
+|:--------|:-------|
+| Baekjoon | **10** |
