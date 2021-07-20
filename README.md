@@ -8,9 +8,6 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wognscn)](https://solved.ac/wognscn)
 
-# GOAL
-Baekjoon gold tier (until ~ 2021 06 30)
-
 # 문제 풀기 (BOJ 브론즈2 이상 count) 
 2021 05 20 ~ 2021 05 27  solved 15
 
