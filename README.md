@@ -39,3 +39,9 @@
 | WebSite | Solved |
 |:--------|:-------|
 | Baekjoon | **2** |
+
+2021 07 20 ~ 
+
+| WebSite | Solved |
+|:--------|:-------|
+| Baekjoon | **9** |
