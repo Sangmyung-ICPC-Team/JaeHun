@@ -1,6 +1,8 @@
 ### There is no future without Coding.👋
 ================================
 
+## Goal (Achieve the BOJ Gold 4 before this vacation is over.)
+
 ## JaeHun
 소프트웨어학과 202020994 추재훈
 
