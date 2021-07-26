@@ -46,4 +46,4 @@
 
 | WebSite | Solved |
 |:--------|:-------|
-| Baekjoon | **9** |
+| Baekjoon | **11** |
