@@ -77,3 +77,9 @@
 | WebSite | Solved |
 |:--------|:-------|
 | Baekjoon | **7** |
+
+2021 09 09 ~ 2021 09 16 (too many tasks...)
+
+| WebSite | Solved |
+|:--------|:-------|
+| Baekjoon | **3** |
