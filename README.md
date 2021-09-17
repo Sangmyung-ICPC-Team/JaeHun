@@ -78,6 +78,8 @@
 |:--------|:-------|
 | Baekjoon | **7** |
 
+# 2021 2학기 START (BOJ 브론즈1 이상, LeetCode)
+
 2021 09 09 ~ 2021 09 16 (too many tasks...)
 
 | WebSite | Solved |
