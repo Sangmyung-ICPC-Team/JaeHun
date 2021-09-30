@@ -1,7 +1,7 @@
 ### There is no future without Coding.👋
 ================================
 
-## Goal (To achieve the BOJ GOLD 4 rank)
+## Goal (BOJ Gold 3 Rank)
 
 ## JaeHun
 소프트웨어학과 202020994 추재훈
