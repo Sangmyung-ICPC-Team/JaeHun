@@ -99,3 +99,4 @@
 | WebSite | Solved |
 |:--------|:-------|
 | Baekjoon | **2** |
+| LeetCode | **2** |
