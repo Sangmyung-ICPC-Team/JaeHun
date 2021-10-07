@@ -105,6 +105,6 @@
 
 | WebSite | Solved |
 |:--------|:-------|
-| Baekjoon | **2** |
+| Baekjoon | **3** |
 | LeetCode | **1** |
 | Programmers | **1** |
