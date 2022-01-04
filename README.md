@@ -121,3 +121,11 @@
 | WebSite | Solved |
 |:--------|:-------|
 | Baekjoon | **4** |
+
+# (2021 Winter Vacation)
+
+2021 12 31 ~ 2021 1 6
+
+| WebSite | Solved |
+|:--------|:-------|
+| Baekjoon | **2** |
