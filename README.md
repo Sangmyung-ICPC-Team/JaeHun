@@ -128,4 +128,4 @@
 
 | WebSite | Solved |
 |:--------|:-------|
-| Baekjoon | **2** |
+| Baekjoon | **3** |
