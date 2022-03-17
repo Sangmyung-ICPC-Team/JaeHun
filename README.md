@@ -148,5 +148,5 @@
 
 | WebSite | Solved |
 |:--------|:-------|
-| Baekjoon | **3** |
+| Baekjoon | **4** |
 | LeetCode | **3** |
