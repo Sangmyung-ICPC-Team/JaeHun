@@ -1,4 +1,6 @@
 from collections import deque
+import sys
+sys.setrecursionlimit(100000)
 
 dx = [1, -1, 0, 0]
 dy = [0, 0, 1, -1]
@@ -18,7 +20,7 @@ n = int(input())
 graph = []
 for _ in range(n):
     graph.append(list(input()))
-visited = [[False] for _ in range(n)]
+visited = [[False] * n for _ in range(n)]
 
 rgb = 0
 for i in range(n):
@@ -32,6 +34,7 @@ for i in range(n):
         if graph[i][j] == 'R':
             graph[i][j] = 'G'
 
+visited = [[False] * n for _ in range(n)]
 rg_blind = 0
 for i in range(n):
     for j in range(n):
