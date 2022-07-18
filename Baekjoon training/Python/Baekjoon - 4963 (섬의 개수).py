@@ -10,7 +10,7 @@ def dfs(x, y):
     for i in range(8):
         nx = x + dx[i]
         ny = y + dy[i]
-
+        
         if 0 <= nx < h and 0 <= ny < w and graph[nx][ny] == 1:
             dfs(nx, ny)
 

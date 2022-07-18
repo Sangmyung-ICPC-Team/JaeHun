@@ -28,6 +28,5 @@ for i in range(n+1):
     graph[i].sort()
 
 bfs(graph, r)
-
 for i in result[1:]:
     print(i)
