@@ -11,4 +11,5 @@ for i in range(2, 201):
     dp[i][1] = i
     for j in range(2, 201):
         dp[i][j] = (dp[i][j-1] + dp[i-1][j]) % inf
+
 print(int(dp[k][n]))
