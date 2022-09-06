@@ -1,4 +1,5 @@
 k = int(input())
+
 fibo = [0] * (k+1)
 fibo[1] = 1
 
